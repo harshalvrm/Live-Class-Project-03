@@ -66,6 +66,7 @@ In This project I learnt the following properties of HTML and CSS.
 
 - **Name 👨‍💻:** [Harshal Verma](https://github.com/harshalvrm)
 - **Email 📧:** [harshalvrm3@gmail.com](mailto:harshalvrm3@gmail.com)
+- **Linkedln 📝:** [Linkedin Profile](https://www.linkedin.com/in/harshalvrm3/)
 - **Blog 📝:** [Hashnode blog](https://xadai.hashnode.dev/)
 
 [Project 3 Link](https://harshalvrm-project03.netlify.app) 
