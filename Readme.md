@@ -1,6 +1,6 @@
 # Third Website in pure HTML and CSS
 ---
-## Description 
+### Description 
 This is a landing page designed for a law firm in pure HTML and CSS. The overall time took to complete this project was around `2-3 hours`. The major effort in this project was layering the image in the background above the navbar and other menu items using the `Z-index`. 
 ---
 
