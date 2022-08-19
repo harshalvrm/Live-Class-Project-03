@@ -10,7 +10,6 @@
     width: 1350px;
     margin: 0;
     background-color: #2b2922;
-    /* box-shadow: 10px 10px 34px -7px #505050; */
     font-family: poppins;
     z-index: +1;
 }
@@ -18,7 +17,6 @@
 .header{
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
-    /* background-color: #2b2922; */
     height: 150px;
     color: #ffff;
     padding-left: 100px;
@@ -36,7 +34,6 @@ bottom: 20px;
     grid-template-columns: repeat(4,1fr);
     list-style: none;
     white-space: nowrap;
-
 }
 
 .btn{
@@ -51,7 +48,6 @@ bottom: 20px;
     font-weight: 600;
     bottom: 10px;
     margin-left: 80px;
-
 }
 
 .main-section{
