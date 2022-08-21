@@ -8,7 +8,7 @@ This is a landing page designed for a law firm in pure HTML and CSS. The overall
 
 ## About The Project
 
-![Project 01](./final_screenshot_project-03.png)
+![Project 03](./final_screenshot_project-03.png)
 
 Here's a Screen-Shot of my first project and I learnt Most of my usefull Future of `HTML` and `CSS`.
 <br>
