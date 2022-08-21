@@ -21,7 +21,7 @@ Here's a Screen-Shot of my first project and I learnt Most of my usefull Future 
     <img src="https://learncodeonline.in/mascot.png" alt="Logo" width="80">
   </a>
 
-<h3 align="center">Project 01</h3>
+<h3 align="center">Project 03</h3>
 
   <p align="center">   
     <a href="https://harshalvrm-project03.netlify.app">View Live Demo</a>
